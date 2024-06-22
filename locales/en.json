@@ -155,7 +155,7 @@
   },
   "uptime": {
     "description": "Check the uptime",
-    "result": "Uptime: `{days} day(s),{hours} hours, {minutes} minutes, {seconds} seconds`"
+    "result": "Uptime: `{days} day(s), {hours} hours, {minutes} minutes, {seconds} seconds`"
   },
   "volume": {
     "description": "Change volume of currently playing music",
